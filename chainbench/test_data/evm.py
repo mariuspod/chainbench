@@ -108,6 +108,14 @@ class EvmNetwork:
                 "0x097D90c9d3E0B50Ca60e1ae45F6A81010f9FB534",
             ],
         },
+        911911: {
+            "name": "op-one",
+            "start_block": 1,
+            "contract_addresses":
+            [
+                "0x425A4906102B5753bccE7FBbc5BB463882311c32"
+            ]
+        },
         56: {
             "name": "bsc-mainnet",
             "start_block": 20000000,
